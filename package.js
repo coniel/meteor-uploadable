@@ -2,7 +2,7 @@ Package.describe({
     name: "coniel:uploadable",
     summary: "A package for uploading files and linking them to other models",
     version: "0.0.1",
-    git: "https://github.com/coniel/uploadable.git"
+    git: "https://github.com/coniel/meteor-uploadable.git"
 });
 
 Package.onUse(function (api) {
