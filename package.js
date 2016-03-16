@@ -9,8 +9,8 @@ Package.onUse(function (api) {
     api.versionsFrom("1.2");
 
     api.use([
-        "coniel:base-model@0.2.0",
-        "coniel:can@0.0.1",
+        "coniel:base-model@0.3.0",
+        "coniel:can@0.1.0",
         "coniel:linkable-model@0.0.1",
         "mdg:validated-method@1.0.1",
         "didericis:callpromise-mixin@0.0.1",
